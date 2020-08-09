@@ -1,5 +1,5 @@
-[docker install : convenient script ](docs.docker.com)
-[userful docker images](hub.docker.com)
+1. [docker install : convenient script ](docs.docker.com)
+2. [userful docker images](hub.docker.com)
 
 #cheat sheet : Docker
 ---
