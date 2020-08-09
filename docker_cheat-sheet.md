@@ -1,6 +1,3 @@
-1. [docker install : convenient script ](docs.docker.com)
-2. [userful docker images](hub.docker.com)
-
 #cheat sheet : Docker
 ---
 ## run command 
